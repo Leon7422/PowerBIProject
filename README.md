@@ -1,5 +1,9 @@
 # PowerBIProject
 
-![Dashboard Preview](PowerBIProject%20photo1.png)
-![Dashboard Preview](PowerBIProject%20photo2.png)
+<table>
+  <tr>
+    <td><img src="PowerBIProject photo1.png" width="100%"></td>
+    <td><img src="PowerBIProject photo2.png" width="100%"></td>
+  </tr>
+</table>
 
